@@ -18,3 +18,6 @@
 print('hello moustafa')
       
 #input('enter your name ?','your age ?')
+val = "bomba"
+age = 520
+print("hallo" +val)
