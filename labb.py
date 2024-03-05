@@ -1,8 +1,8 @@
 #print('hello moustafa')
-#print('hello moustafa')
-#print('hello ' + 'omar')
-#print('hello omar ' + '4')
-#print('hello mostafa','5555')
+# #print('hello moustafa')
+# print('hello ' + 'omar')
+# print('hello omar ' + '4')
+# print('hello mostafa','5555')
 
 
 #input('enter your name :')
@@ -16,8 +16,20 @@
 #input('did you the first one her!?')
 #print('hallo',input('enter your name ?','your age ?'))
 print('hello moustafa')
-      
 #input('enter your name ?','your age ?')
+#input('enter your name ?','your age ?')
+    
+      
+
+
+
+print("hallo" +val)
+
+
+
+
+
+
+
 val = "bomba"
 age = 520
-print("hallo" +val)
