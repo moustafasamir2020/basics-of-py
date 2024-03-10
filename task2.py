@@ -35,6 +35,32 @@
 # print('thank you for help us')
 # # ----------------------------------------------------------------------------------->
 #q5)
+# num1=input('write a first number ')
+# num2=input('write a second number ')
+# print('num1 is the largest') if num1>num2 else print('num2 is the largest')
+# # ----------------------------------------------------------------------------------->
+#q6)
+# num=int(input('enter the number:'))
+# print('positive') if num>0 else print('negative')
+# # ----------------------------------------------------------------------------------->
+#q7)
+# num=int(input('enter the number:'))
+# print('even') if num%2==0 else print ('odd')
+# # ----------------------------------------------------------------------------------->
+#q9)
+# num1=float(input('enter the first number'))
+# num2=float(input('enter the second number'))
+# num3=float(input('enter the third number'))
+# if num1>num2 and num1>num3:
+#     print('the largest number is num1' )
+# elif num2>num1 and num2>num3:
+#     print('the largest number is num2' )
+# else:print('the largest number is num3')
+# # ----------------------------------------------------------------------------------->
+# p2-q1)
+print("hallo my best student")
+work=int(input('enter your working days:'))
+absent=int(input('enter your days for absent :')) 
 
 
 
