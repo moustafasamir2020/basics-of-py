@@ -77,30 +77,6 @@ elif 60<percent<=80:
 else : print("(A+)")
 # # ----------------------------------------------------------------------------------->
 
-    
-
-
-
-
-
-
-
-
-
-
-
-
-# if percent<25 :
-#     print("(D)")
-# elif 25<percent>45:
-#     print("(C)")
-# elif 45<percent>50:
-#     print("(B)")
-# elif 50<percent>60:
-#     print("(B+)")
-# elif 60<percent>80:
-#     print("(A)")
-# else : print("(A+)")
 
 
 
