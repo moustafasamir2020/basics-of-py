@@ -58,9 +58,55 @@
 # else:print('the largest number is num3')
 # # ----------------------------------------------------------------------------------->
 # p2-q1)
-print("hallo my best student")
-work=int(input('enter your working days:'))
-absent=int(input('enter your days for absent :')) 
+working=int(input('enter the working days :'))
+absent=int(input('enter the days for absent  :'))
+percent=((working/30)*100)
+print('your workink days is',working,"and your days for absent is",absent)
+print('your percentage is ',percent)
+print("you cannot attend the exam .") if percent<75 else print ('thank you ')
+if percent<25 :
+    print("(D)")
+elif 25<percent<=45:
+    print("(C)")
+elif 45<percent<=50:
+     print("(B)")
+elif 50<percent<=60:
+  print("(B+)")
+elif 60<percent<=80:
+    print("(A)")
+else : print("(A+)")
+# # ----------------------------------------------------------------------------------->
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+# if percent<25 :
+#     print("(D)")
+# elif 25<percent>45:
+#     print("(C)")
+# elif 45<percent>50:
+#     print("(B)")
+# elif 50<percent>60:
+#     print("(B+)")
+# elif 60<percent>80:
+#     print("(A)")
+# else : print("(A+)")
+
+
+
+
+
+
 
 
 
