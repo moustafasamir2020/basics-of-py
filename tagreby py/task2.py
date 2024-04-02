@@ -1,4 +1,4 @@
-# # q8)-------------->
+# q8)-------------->
 # print ('welcom to our company')
 # print ('welcom',input('enter your name: '),'your code is', input('enter your code :'))
 # unit=int(input('enter your units:'))
@@ -14,13 +14,14 @@
 # print("we wish you a best wishes")
 # input('what is your name?')
 # grade=int(input("your marks please:"))
-# if grade> 90:
+# precent=grade/260*100
+# if precent> 90:
 #     print("your grade is (A)")
-# elif 90>=grade>80:
+# elif 90>=precent>80:
 #     print("your grade is (B)")
-# elif 80>=grade>=60:
+# elif 80>=precent>=60:
 #     print('your grade is (c)')
-# else:print('your grade is (c)')
+# else:print('your grade is (f)')
 # # ----------------------------------------------------------------------------------->
 # q2)------------------>
 # print('welcome sir we pleased you being with us  ')
@@ -58,23 +59,23 @@
 # else:print('the largest number is num3')
 # # ----------------------------------------------------------------------------------->
 # p2-q1)
-working=int(input('enter the working days :'))
-absent=int(input('enter the days for absent  :'))
-percent=((working/30)*100)
-print('your workink days is',working,"and your days for absent is",absent)
-print('your percentage is ',percent)
-print("you cannot attend the exam .") if percent<75 else print ('thank you ')
-if percent<25 :
-    print("(D)")
-elif 25<percent<=45:
-    print("(C)")
-elif 45<percent<=50:
-     print("(B)")
-elif 50<percent<=60:
-  print("(B+)")
-elif 60<percent<=80:
-    print("(A)")
-else : print("(A+)")
+# working=int(input('enter the working days :'))
+# absent=int(input('enter the days for absent  :'))
+# percent=((working/30)*100)
+# print('your workink days is',working,"and your days for absent is",absent)
+# print('your percentage is ',percent)
+# print("you cannot attend the exam .") if percent<75 else print ('thank you ')
+# if percent<25 :
+#     print("(D)")
+# elif 25<percent<=45:
+#     print("(C)")
+# elif 45<percent<=50:
+#      print("(B)")
+# elif 50<percent<=60:
+#   print("(B+)")
+# elif 60<percent<=80:
+#     print("(A)")
+# else : print("(A+)")
 # # ----------------------------------------------------------------------------------->
 
 
