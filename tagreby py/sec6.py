@@ -22,6 +22,14 @@ emil =input ('enter your email :').strip()
 
 profile(fistname,lastname,emil)
 
+# name=input('enter your name :').strip()
+# age =int(input ('enter your age :').strip())
+
+# def hello (name,age):
+#     print(f'hello {name.capitalize()} and your age is {age}')
+
+# hello (name,age)
+
 
 
 

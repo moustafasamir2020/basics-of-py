@@ -28,7 +28,9 @@
 # ---------------------------------------------------------------------------------------------------------------------
 # num=int(input("enter the number:"))
 # print("postive") if num>0 else print('negative')
-num=int(input("enter the number:"))
-print("odd") if num%2==1 else print('even')
+# num=int(input("enter the number:"))
+# print("odd") if num%2==1 else print('even')
+
+
 
 

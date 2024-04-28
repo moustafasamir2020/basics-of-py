@@ -39,12 +39,12 @@
 # name[1]="mohamed"
 # print(name)
 # # dictionary-------------------->
-# employee={
-#     'name':'omar',
-#     'age':'26',
-#     'station':"acount",
+employee={
+    'name':'omar',
+    'age':'26',
+    'station':"acount",
     
-# }
+}
 
 
 
@@ -56,7 +56,7 @@
 # print (employee.keys())
 # print (employee.values())
 # print (employee.items())
-# employee.update({'name':'moustafa'})
+employee.update({'name':'moustafa'})
 # print (employee)
 # Name={
 #     'employee1':{'name':'omar',
