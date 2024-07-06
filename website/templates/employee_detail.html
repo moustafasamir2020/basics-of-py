@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block body %}
+
+<div class="container mx-auto">
+<p>employee name:{{employee.name}}</p>
+<p>employee age:{{employee.age}}</p>
+<p>employee salary:{{employee.salary}}</p>
+<a href="{% url 'update_employee' employee.id %}" type="button" class="btn btn-primary mt-3">update employee</a>
+<a href="{% url 'delete_employee' employee.id %}" type="button" class="btn btn-danger mt-3">delete employee</a>
+
+
+{% endblock body %}
